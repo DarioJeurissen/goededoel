@@ -35,7 +35,7 @@ public class GoedeDoelTest {
 
 	@Test
 	public void goedeDoelenMetVerschillendeNaamMoetenVolgensEqualsVerschillendZijn() {
-		assertNotEquals(new GoedeDoel("Uniceff"), doel);
+		assertNotEquals(new GoedeDoel("Unicef"), doel);
 	}
 
 	@Test
